@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background:rgb(14, 13, 13);
+}
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #13adcf;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    font-weight: 900;
+}
+#mydays{
+    font-size:50px;
+    margin-left: -85px;
+}
